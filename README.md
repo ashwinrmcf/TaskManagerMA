@@ -25,7 +25,7 @@ ProcessMonitor: (If applicable) Logic for real-time tracking of system tasks.
 AnalysisLogs: Sample data and logs generated during the testing of various malware samples in a controlled sandbox.
 
 🛠️ Tools & Technologies Used
-Languages: Python / C++ (Adjust based on your actual code)
+Languages: Python and Windows Powershell Bash
 
 Analysis Techniques: Static Properties Analysis, Interactive Behavioral Analysis.
 
@@ -38,4 +38,4 @@ Concepts: PE Headers, Entropy Calculation, Persistence Mechanisms, DLL Injection
 This project was completed as part of a formal research internship at IIT Indore. I would like to thank my mentors and the department for their guidance in exploring the complexities of Malware Reverse Engineering and System Security.
 
 👨‍💻 Author
-Ashwin Research Intern, IIT GitHub Profile | LinkedIn
+Ashwin Soni, Research Intern, IIT Indore.
